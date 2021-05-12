@@ -2,7 +2,6 @@
 
 ## Team Members
 
-Place your team member names here.
 Hailin Guan, Surabhi Biyani, Rita Kuo, Runjing Li, Gordon An
 
 ### Contribution Statements
@@ -11,7 +10,6 @@ Add individual contribution statements here.
 
 ## Project Proposal Abstract
 
-This is the space for you to add a description for your project.
 In this project, we plan to explore the use of clean-energy transportation (including electric vehicles, biking, and walking) and the impact on air quality across the United States, with a focus on Washington. We will look at trends in transportation and air quality individually at first, and then study the correlation between the two topics on a city or county basis. We will construct a narrative-based visualization at which the reader can explore and interact with the data. By doing so, we want to convey our message to readers in a clear way and let them experience the interactivity and draw their own conclusions. With that in mind, we will use interactive techniques such as point selection, brushing and linking, etc. We might compare visualizations side-by-side.
 
 ## Getting Started
