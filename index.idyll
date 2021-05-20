@@ -3,7 +3,7 @@
 [Header
   fullWidth:true
   title:"CSE412 Final Project"
-  subtitle:"about electric-cars, temperature, air quality"
+  subtitle:"About electric-cars, temperature, air quality"
   author:"Hailin Guan, Surabhi Biyani, Rita Kuo, Runjing Li, Gordon An"
   authorLink: "
   https://courses.cs.washington.edu/courses/cse412/21sp/index.html"
