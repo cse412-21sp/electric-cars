@@ -7,6 +7,7 @@ Hailin Guan, Surabhi Biyani, Rita Kuo, Runjing Li, Gordon An
 ### Contribution Statements
 
 (Add individual contribution statements here.)
+
 We currently have all the cleaned data uploaded in the "data" folder and static images above. We
 will start developing our webpage after some feedbacks.
 
