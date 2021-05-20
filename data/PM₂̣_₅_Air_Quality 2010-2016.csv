@@ -1,0 +1,274 @@
+﻿County,Year,# Days Monitored,# Days Standard Not Met,% Days Standard Not Met
+Adams,2010,336,2,0.6
+Adams,2011,363,1,0.3
+Adams,2012,342,2,0.6
+Adams,2013,342,2,0.6
+Adams,2014,346,3,0.9
+Adams,2015,356,19,5.3
+Adams,2016,346,1,0.3
+Asotin,2010,359,7,2
+Asotin,2011,361,5,1.4
+Asotin,2012,323,26,8
+Asotin,2013,323,26,8
+Asotin,2014,290,12,4.1
+Asotin,2015,0,--,--
+Asotin,2016,362,5,1.4
+Benton,2010,--,--,--
+Benton,2011,363,1,0.3
+Benton,2012,332,1,0.3
+Benton,2013,332,1,0.3
+Benton,2014,--,--,--
+Benton,2015,356,9,2.5
+Benton,2016,322,1,0.3
+Chelan,2010,365,42,11.5
+Chelan,2011,363,70,19.3
+Chelan,2012,365,44,12
+Chelan,2013,365,44,12
+Chelan,2014,362,46,12.7
+Chelan,2015,362,23,6.4
+Chelan,2016,366,14,3.8
+Clallam,2010,365,7,1.9
+Clallam,2011,365,23,6.3
+Clallam,2012,365,25,6.8
+Clallam,2013,365,25,6.8
+Clallam,2014,365,30,8.2
+Clallam,2015,363,32,8.8
+Clallam,2016,366,21,5.7
+Clark,2010,365,2,0.6
+Clark,2011,365,65,17.8
+Clark,2012,361,43,11.9
+Clark,2013,361,43,11.9
+Clark,2014,360,47,13.1
+Clark,2015,330,37,11.2
+Clark,2016,361,17,4.7
+Columbia,2010,365,2,0.6
+Columbia,2011,363,1,0.3
+Columbia,2012,--,--,--
+Columbia,2013,--,--,--
+Columbia,2014,--,--,--
+Columbia,2015,362,2,0.6
+Columbia,2016,--,--,--
+Cowlitz,2010,364,3,0.8
+Cowlitz,2011,363,5,1.4
+Cowlitz,2012,365,15,4.1
+Cowlitz,2013,365,15,4.1
+Cowlitz,2014,323,10,3.1
+Cowlitz,2015,362,13,3.6
+Cowlitz,2016,363,7,1.9
+Douglas,2010,--,--,--
+Douglas,2011,--,--,--
+Douglas,2012,--,--,--
+Douglas,2013,--,--,--
+Douglas,2014,--,--,--
+Douglas,2015,--,--,--
+Douglas,2016,--,--,--
+Ferry,2010,--,--,--
+Ferry,2011,--,--,--
+Ferry,2012,--,--,--
+Ferry,2013,--,--,--
+Ferry,2014,--,--,--
+Ferry,2015,--,--,--
+Ferry,2016,--,--,--
+Franklin,2010,365,1,0.3
+Franklin,2011,363,1,0.3
+Franklin,2012,333,1,0.3
+Franklin,2013,333,1,0.3
+Franklin,2014,311,2,0.6
+Franklin,2015,359,12,3.3
+Franklin,2016,--,--,--
+Garfield,2010,--,--,--
+Garfield,2011,--,--,--
+Garfield,2012,--,--,--
+Garfield,2013,--,--,--
+Garfield,2014,--,--,--
+Garfield,2015,--,--,--
+Garfield,2016,--,--,--
+Grant,2010,361,2,0.6
+Grant,2011,--,--,--
+Grant,2012,337,1,0.3
+Grant,2013,337,1,0.3
+Grant,2014,365,4,1.1
+Grant,2015,360,12,3.3
+Grant,2016,361,1,0.3
+Grays Harbor,2010,365,2,0.6
+Grays Harbor,2011,363,6,1.6
+Grays Harbor,2012,365,14,3.8
+Grays Harbor,2013,365,14,3.8
+Grays Harbor,2014,365,2,0.6
+Grays Harbor,2015,343,7,2
+Grays Harbor,2016,364,15,4.1
+Island,2010,--,--,--
+Island,2011,--,--,--
+Island,2012,--,--,--
+Island,2013,--,--,--
+Island,2014,--,--,--
+Island,2015,--,--,--
+Island,2016,--,--,--
+Jefferson,2010,355,6,1.7
+Jefferson,2011,363,6,1.6
+Jefferson,2012,362,8,2.2
+Jefferson,2013,362,8,2.2
+Jefferson,2014,342,6,1.8
+Jefferson,2015,308,3,1
+Jefferson,2016,348,3,0.9
+King,2010,365,22,6
+King,2011,364,56,15.4
+King,2012,365,55,15.1
+King,2013,365,55,15.1
+King,2014,365,36,9.9
+King,2015,363,51,14
+King,2016,366,12,3.3
+Kitsap,2010,353,43,12.2
+Kitsap,2011,361,42,11.6
+Kitsap,2012,349,2,0.6
+Kitsap,2013,349,2,0.6
+Kitsap,2014,362,2,0.6
+Kitsap,2015,358,5,1.4
+Kitsap,2016,--,--,--
+Kittitas,2010,365,16,4.4
+Kittitas,2011,354,18,5.1
+Kittitas,2012,348,19,5.5
+Kittitas,2013,348,19,5.5
+Kittitas,2014,323,11,3.4
+Kittitas,2015,347,29,8.4
+Kittitas,2016,362,18,5
+Klickitat,2010,0,--,--
+Klickitat,2011,0,--,--
+Klickitat,2012,0,--,--
+Klickitat,2013,0,--,--
+Klickitat,2014,0,--,--
+Klickitat,2015,0,--,--
+Klickitat,2016,0,--,--
+Lewis,2010,365,1,0.3
+Lewis,2011,364,3,0.8
+Lewis,2012,330,11,3.3
+Lewis,2013,330,11,3.3
+Lewis,2014,365,5,1.4
+Lewis,2015,361,7,1.9
+Lewis,2016,366,2,0.6
+Lincoln,2010,--,--,--
+Lincoln,2011,--,--,--
+Lincoln,2012,--,--,--
+Lincoln,2013,--,--,--
+Lincoln,2014,--,--,--
+Lincoln,2015,--,--,--
+Lincoln,2016,--,--,--
+Mason,2010,365,28,7.7
+Mason,2011,360,32,8.9
+Mason,2012,336,22,6.6
+Mason,2013,336,22,6.6
+Mason,2014,365,10,2.7
+Mason,2015,362,7,1.9
+Mason,2016,--,--,--
+Okanogan,2010,365,32,8.8
+Okanogan,2011,364,45,12.4
+Okanogan,2012,365,65,17.8
+Okanogan,2013,365,65,17.8
+Okanogan,2014,356,71,19.9
+Okanogan,2015,363,70,19.3
+Okanogan,2016,366,49,13.4
+Pacific,2010,--,--,--
+Pacific,2011,--,--,--
+Pacific,2012,--,--,--
+Pacific,2013,--,--,--
+Pacific,2014,--,--,--
+Pacific,2015,--,--,--
+Pacific,2016,--,--,--
+Pend Oreille,2010,--,--,--
+Pend Oreille,2011,0,--,--
+Pend Oreille,2012,--,--,--
+Pend Oreille,2013,--,--,--
+Pend Oreille,2014,--,--,--
+Pend Oreille,2015,--,--,--
+Pend Oreille,2016,--,--,--
+Pierce,2010,365,25,6.8
+Pierce,2011,365,72,19.7
+Pierce,2012,365,48,13.2
+Pierce,2013,365,48,13.2
+Pierce,2014,365,38,10.4
+Pierce,2015,365,37,10.1
+Pierce,2016,366,25,6.8
+San Juan,2010,--,--,--
+San Juan,2011,--,--,--
+San Juan,2012,--,--,--
+San Juan,2013,--,--,--
+San Juan,2014,--,--,--
+San Juan,2015,--,--,--
+San Juan,2016,--,--,--
+Skagit,2010,365,1,0.3
+Skagit,2011,--,--,--
+Skagit,2012,344,2,0.6
+Skagit,2013,344,2,0.6
+Skagit,2014,365,2,0.6
+Skagit,2015,362,11,3
+Skagit,2016,366,7,1.9
+Skamania,2010,--,--,--
+Skamania,2011,--,--,--
+Skamania,2012,--,--,--
+Skamania,2013,--,--,--
+Skamania,2014,--,--,--
+Skamania,2015,--,--,--
+Skamania,2016,--,--,--
+Snohomish,2010,0,--,--
+Snohomish,2011,365,87,23.8
+Snohomish,2012,316,20,6.3
+Snohomish,2013,316,20,6.3
+Snohomish,2014,350,65,18.6
+Snohomish,2015,184,24,13
+Snohomish,2016,212,11,5.2
+Spokane,2010,365,16,4.4
+Spokane,2011,364,27,7.4
+Spokane,2012,364,27,7.4
+Spokane,2013,364,27,7.4
+Spokane,2014,345,19,5.5
+Spokane,2015,337,33,9.8
+Spokane,2016,366,10,2.7
+Stevens,2010,365,44,12
+Stevens,2011,363,51,14
+Stevens,2012,365,38,10.4
+Stevens,2013,365,38,10.4
+Stevens,2014,365,31,8.5
+Stevens,2015,362,41,11.3
+Stevens,2016,363,33,9.1
+Thurston,2010,281,12,4.3
+Thurston,2011,361,30,8.3
+Thurston,2012,364,60,16.5
+Thurston,2013,364,60,16.5
+Thurston,2014,318,30,9.4
+Thurston,2015,314,23,7.3
+Thurston,2016,343,17,5
+Wahkiakum,2010,--,--,--
+Wahkiakum,2011,--,--,--
+Wahkiakum,2012,--,--,--
+Wahkiakum,2013,--,--,--
+Wahkiakum,2014,--,--,--
+Wahkiakum,2015,--,--,--
+Wahkiakum,2016,--,--,--
+Walla Walla,2010,365,2,0.6
+Walla Walla,2011,363,10,2.8
+Walla Walla,2012,350,12,3.4
+Walla Walla,2013,350,12,3.4
+Walla Walla,2014,319,3,0.9
+Walla Walla,2015,362,18,5
+Walla Walla,2016,0,--,--
+Whatcom,2010,346,1,0.3
+Whatcom,2011,349,2,0.6
+Whatcom,2012,333,9,2.7
+Whatcom,2013,333,9,2.7
+Whatcom,2014,327,12,3.7
+Whatcom,2015,305,8,2.6
+Whatcom,2016,319,4,1.2
+Whitman,2010,365,4,1.1
+Whitman,2011,363,2,0.6
+Whitman,2012,365,2,0.6
+Whitman,2013,365,2,0.6
+Whitman,2014,363,9,2.5
+Whitman,2015,362,24,6.6
+Whitman,2016,366,9,2.5
+Yakima,2010,365,28,7.7
+Yakima,2011,364,56,15.4
+Yakima,2012,365,87,23.8
+Yakima,2013,365,87,23.8
+Yakima,2014,365,43,11.8
+Yakima,2015,363,79,21.8
+Yakima,2016,366,46,12.6

@@ -1,0 +1,352 @@
+﻿County,Year,Annual Average (µg/m³)
+Adams,2010,5
+Adams,2011,5.1
+Adams,2012,5.1
+Adams,2013,4.4
+Adams,2014,4.6
+Adams,2015,6.9
+Adams,2016,3.8
+Adams,2017,6.6
+Adams,2018,6.1
+Asotin,2010,7.2
+Asotin,2011,6.1
+Asotin,2012,10.4
+Asotin,2013,9.1
+Asotin,2014,7.6
+Asotin,2015,--
+Asotin,2016,7.1
+Asotin,2017,11.8
+Asotin,2018,9.4
+Benton,2010,5.9
+Benton,2011,6
+Benton,2012,6.5
+Benton,2013,6.8
+Benton,2014,5.7
+Benton,2015,6.9
+Benton,2016,5.7
+Benton,2017,8.6
+Benton,2018,7.1
+Chelan,2010,8
+Chelan,2011,9.6
+Chelan,2012,13.7
+Chelan,2013,8.9
+Chelan,2014,9.1
+Chelan,2015,8.3
+Chelan,2016,6.4
+Chelan,2017,11.7
+Chelan,2018,14.5
+Clallam,2010,5.6
+Clallam,2011,6.8
+Clallam,2012,8
+Clallam,2013,6.4
+Clallam,2014,7.1
+Clallam,2015,7.2
+Clallam,2016,7.1
+Clallam,2017,9.1
+Clallam,2018,9.5
+Clark,2010,6.5
+Clark,2011,9.6
+Clark,2012,8
+Clark,2013,10.1
+Clark,2014,8.3
+Clark,2015,9.3
+Clark,2016,6.2
+Clark,2017,8.9
+Clark,2018,7.5
+Columbia,2010,5.1
+Columbia,2011,5.2
+Columbia,2012,5.6
+Columbia,2013,6.2
+Columbia,2014,4.8
+Columbia,2015,4.3
+Columbia,2016,4.2
+Columbia,2017,7.5
+Columbia,2018,6
+Cowlitz,2010,4.6
+Cowlitz,2011,4.8
+Cowlitz,2012,5.5
+Cowlitz,2013,6.7
+Cowlitz,2014,6
+Cowlitz,2015,6
+Cowlitz,2016,5.1
+Cowlitz,2017,6.1
+Cowlitz,2018,6.3
+Douglas,2010,--
+Douglas,2011,--
+Douglas,2012,--
+Douglas,2013,--
+Douglas,2014,--
+Douglas,2015,--
+Douglas,2016,--
+Douglas,2017,--
+Douglas,2018,--
+Ferry,2010,--
+Ferry,2011,--
+Ferry,2012,--
+Ferry,2013,--
+Ferry,2014,--
+Ferry,2015,--
+Ferry,2016,--
+Ferry,2017,--
+Ferry,2018,--
+Franklin,2010,5.7
+Franklin,2011,5.4
+Franklin,2012,5.9
+Franklin,2013,6.8
+Franklin,2014,5.4
+Franklin,2015,6.6
+Franklin,2016,4
+Franklin,2017,7.6
+Franklin,2018,6.6
+Garfield,2010,--
+Garfield,2011,--
+Garfield,2012,--
+Garfield,2013,--
+Garfield,2014,--
+Garfield,2015,--
+Garfield,2016,--
+Garfield,2017,--
+Garfield,2018,5.6
+Grant,2010,5.7
+Grant,2011,5.9
+Grant,2012,6.7
+Grant,2013,6.9
+Grant,2014,6.2
+Grant,2015,7.3
+Grant,2016,4.9
+Grant,2017,8.3
+Grant,2018,8.5
+Grays Harbor,2010,4.5
+Grays Harbor,2011,4.8
+Grays Harbor,2012,5.6
+Grays Harbor,2013,6.6
+Grays Harbor,2014,5.8
+Grays Harbor,2015,5.7
+Grays Harbor,2016,5.6
+Grays Harbor,2017,6.3
+Grays Harbor,2018,6.4
+Island,2010,--
+Island,2011,--
+Island,2012,--
+Island,2013,--
+Island,2014,--
+Island,2015,--
+Island,2016,--
+Island,2017,--
+Island,2018,--
+Jefferson,2010,5.1
+Jefferson,2011,5.1
+Jefferson,2012,4.9
+Jefferson,2013,5.9
+Jefferson,2014,5.7
+Jefferson,2015,5.6
+Jefferson,2016,4.8
+Jefferson,2017,5.6
+Jefferson,2018,6.4
+King,2010,9.2
+King,2011,10.3
+King,2012,10.7
+King,2013,12.8
+King,2014,10.3
+King,2015,11.5
+King,2016,8.9
+King,2017,11.8
+King,2018,11.5
+Kitsap,2010,6.7
+Kitsap,2011,6.4
+Kitsap,2012,--
+Kitsap,2013,4.8
+Kitsap,2014,4.8
+Kitsap,2015,5
+Kitsap,2016,4.2
+Kitsap,2017,4.9
+Kitsap,2018,4.9
+Kittitas,2010,7.1
+Kittitas,2011,6.8
+Kittitas,2012,9.9
+Kittitas,2013,6.7
+Kittitas,2014,5.2
+Kittitas,2015,7.8
+Kittitas,2016,7.1
+Kittitas,2017,11
+Kittitas,2018,7.1
+Klickitat,2010,--
+Klickitat,2011,--
+Klickitat,2012,5.3
+Klickitat,2013,--
+Klickitat,2014,--
+Klickitat,2015,--
+Klickitat,2016,--
+Klickitat,2017,--
+Klickitat,2018,--
+Lewis,2010,5.2
+Lewis,2011,5.9
+Lewis,2012,6.1
+Lewis,2013,6.8
+Lewis,2014,6.3
+Lewis,2015,6.4
+Lewis,2016,5.2
+Lewis,2017,6.8
+Lewis,2018,7.2
+Lincoln,2010,--
+Lincoln,2011,--
+Lincoln,2012,--
+Lincoln,2013,--
+Lincoln,2014,--
+Lincoln,2015,--
+Lincoln,2016,--
+Lincoln,2017,--
+Lincoln,2018,--
+Mason,2010,6
+Mason,2011,7.3
+Mason,2012,7.2
+Mason,2013,7.5
+Mason,2014,5.8
+Mason,2015,6
+Mason,2016,5.4
+Mason,2017,6.4
+Mason,2018,6.8
+Okanogan,2010,9
+Okanogan,2011,9.4
+Okanogan,2012,11
+Okanogan,2013,10.6
+Okanogan,2014,11.2
+Okanogan,2015,18
+Okanogan,2016,8.9
+Okanogan,2017,14.7
+Okanogan,2018,16.8
+Pacific,2010,--
+Pacific,2011,--
+Pacific,2012,--
+Pacific,2013,--
+Pacific,2014,--
+Pacific,2015,--
+Pacific,2016,--
+Pacific,2017,--
+Pacific,2018,--
+Pend Oreille,2010,4.1
+Pend Oreille,2011,--
+Pend Oreille,2012,--
+Pend Oreille,2013,--
+Pend Oreille,2014,--
+Pend Oreille,2015,--
+Pend Oreille,2016,--
+Pend Oreille,2017,--
+Pend Oreille,2018,--
+Pierce,2010,8.4
+Pierce,2011,9.6
+Pierce,2012,9
+Pierce,2013,10
+Pierce,2014,8.6
+Pierce,2015,9
+Pierce,2016,8
+Pierce,2017,10.2
+Pierce,2018,9.9
+San Juan,2010,--
+San Juan,2011,--
+San Juan,2012,--
+San Juan,2013,--
+San Juan,2014,--
+San Juan,2015,--
+San Juan,2016,--
+San Juan,2017,--
+San Juan,2018,--
+Skagit,2010,4.7
+Skagit,2011,4.8
+Skagit,2012,3.8
+Skagit,2013,7.3
+Skagit,2014,6
+Skagit,2015,7.1
+Skagit,2016,5.3
+Skagit,2017,5.8
+Skagit,2018,6.3
+Skamania,2010,--
+Skamania,2011,--
+Skamania,2012,--
+Skamania,2013,--
+Skamania,2014,--
+Skamania,2015,--
+Skamania,2016,--
+Skamania,2017,--
+Skamania,2018,--
+Snohomish,2010,7.4
+Snohomish,2011,9.9
+Snohomish,2012,8.4
+Snohomish,2013,9.8
+Snohomish,2014,9.5
+Snohomish,2015,9.7
+Snohomish,2016,7.8
+Snohomish,2017,10.3
+Snohomish,2018,9.3
+Spokane,2010,8.6
+Spokane,2011,9.1
+Spokane,2012,9.1
+Spokane,2013,9.8
+Spokane,2014,8.8
+Spokane,2015,10.2
+Spokane,2016,7.9
+Spokane,2017,11.4
+Spokane,2018,10.8
+Stevens,2010,9.2
+Stevens,2011,9.1
+Stevens,2012,8.8
+Stevens,2013,9.4
+Stevens,2014,9.1
+Stevens,2015,9.3
+Stevens,2016,8.1
+Stevens,2017,12.2
+Stevens,2018,11.9
+Thurston,2010,4.3
+Thurston,2011,5.2
+Thurston,2012,7.4
+Thurston,2013,8.2
+Thurston,2014,6.6
+Thurston,2015,6
+Thurston,2016,5.6
+Thurston,2017,6.6
+Thurston,2018,6
+Wahkiakum,2010,--
+Wahkiakum,2011,--
+Wahkiakum,2012,--
+Wahkiakum,2013,--
+Wahkiakum,2014,--
+Wahkiakum,2015,--
+Wahkiakum,2016,--
+Wahkiakum,2017,--
+Wahkiakum,2018,--
+Walla Walla,2010,6.5
+Walla Walla,2011,5.7
+Walla Walla,2012,5.8
+Walla Walla,2013,6.6
+Walla Walla,2014,4.7
+Walla Walla,2015,6.4
+Walla Walla,2016,--
+Walla Walla,2017,8.3
+Walla Walla,2018,7.2
+Whatcom,2010,6
+Whatcom,2011,5.3
+Whatcom,2012,4.3
+Whatcom,2013,6.7
+Whatcom,2014,7.8
+Whatcom,2015,6.5
+Whatcom,2016,4.9
+Whatcom,2017,5.3
+Whatcom,2018,5.3
+Whitman,2010,5.1
+Whitman,2011,5.4
+Whitman,2012,6.6
+Whitman,2013,6.4
+Whitman,2014,5.7
+Whitman,2015,7
+Whitman,2016,4.6
+Whitman,2017,7.6
+Whitman,2018,6.5
+Yakima,2010,9.1
+Yakima,2011,10.2
+Yakima,2012,11.7
+Yakima,2013,12.8
+Yakima,2014,10.1
+Yakima,2015,13.3
+Yakima,2016,11.6
+Yakima,2017,15
+Yakima,2018,13.4
