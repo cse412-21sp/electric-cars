@@ -87,4 +87,10 @@ Then we compare the total numbers of days that did not meet the standard of air 
 
 The air quality can be influenced by many factors. As the PM 2.5 is one of the main pollutants, then we also considered that diesel emission would take a great part as the pollutant to the air quality.
 
+### Allergy caused by PM 2.5
+
+![example](./static/images/affected_person.png)
+
+Now we try to explore how many people might be affected because of poor air quality in each county. To do so, we find the data that counts the number of people allergic to PM 2.5 in each county. Based on the lind chart we made, we discover the top 7 counties that have large numbers of people being allergic to PM 2.5 among all counties in Washington state. Particularly, King county always has the largest number since 2010 even though it has a significant drop in 2015.
+
 ## Electric Car
