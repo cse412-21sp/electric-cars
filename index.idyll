@@ -23,45 +23,52 @@
 ### Heavy Precipitaion
 
 For the heavy precipitation, we’ve created visualizations showing how the heavy precipitation
-changes from 2010 to 2016 in counties in Washington State.
+changes from 2010 to 2016 in counties in Washington State. The visualization shows the sum of different census tracts in each county.
 
-![example](./static/images/every county example.png)
+![example](./static/images/new_heavy_precipitation.png)
 
-This image shows every county in Washington State. However, this visualization appears to be really
-long because there are many counties in Washington State, and the counties are divided by many
+This image shows every county in Washington State. However, this visualization appears to be quite
+long because there are many counties in Washington State, and the counties are divided into many
 different census tracts. Therefore, we would probably change the visualization to scrolling type
 later on. (Scrolling by year or county)
 
 ![example](./static/images/Douglas county example.png)
 
-This is a snapshot/example of one of the counties(zoom in version).
+This is a snapshot/example of one of the counties(zoom in version and separate
+by census tract).
 
 ![example](./static/images/Adams county example.png)
 
-This is a snapshot/example of another county(zoom in version).
+This is a snapshot/example of another county(zoom in version and separate
+by census tract).
 
 ### Annual cooling&heating
 
 There are two visualizations in this section. One visualization shows the change in annual cooling
-rate in each county, and the other one shows the change in heating rate in each county in 2020. CDD
-represents the cooling degree days and HDD represents the heating degree days. Both are calculated
-using a day’s average temperature and a baseline temperature of 65 degrees Fahrenheit.
+rate in each county in 2020, and the other one shows the change in  heating rate in each county in 2020.
+CDD represents the cooling degree days and HDD represents the heating degree days. Both are
+calculated using a day’s average temperature and a baseline temperature of 65 degrees Fahrenheit.
 
-However, both visualizations appear to be really long because there are many counties in Washington
-State, and the counties are divided by many different census tracts. Therefore, we would probably
-change the visualization to scrolling type later on. (Scrolling by year or county)
+The two visualizations are the sum of census tracts in each county.
+Some counties have many census tracts, so the two visualizations add up all the
+census tracts in that county.
 
-![example](./static/images/annual cooling example.png)
+![example](./static/images/new_annual_cooling.png)
 
-The change in annual cooling degree days in each county in 2020. If the day’s average temperature is
-65 or below, the value is 0, and this indicates no need for cooling. For example, in Adams county,
-there are five census tracts, and the first census tract shows the CDD is 549 degree days.
+The change in annual cooling degree days in each county in 2020. If the day’s average temperature
+is 65 or below, the value is 0, and this indicates no need for cooling. For example, in Adams
+county, there are five census tracts, but I combined the five census tracts, so the change in
+total annual cooling rate is 3059 degree days.
 
-![example](./static/images/fewer heating example.png)
+![example](./static/images/new_annual_heating.png)
 
 The change in annual heating rate degree days in each country in 2020. If the day’s average
-temperature is 65 or above, the value is 0, and this indicates no need for heating. For example, in
-Adams county, there are five census tracts, and the first census tract shows the HDD is 1339 degree days.
+temperature is 65 or above, the value is 0, and this indicates no need for heating. For example,
+in Adams county, there are five census tracts, but I combined the five census tracts, so the change
+in total annual heating rate is 6136 degree days.
+
+For the two visualizations, King county is the one that has the most change in total annual cooling
+and change in total annual heating.
 
 ## Air Quality
 
