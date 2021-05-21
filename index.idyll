@@ -80,13 +80,18 @@ This map visualization shows the total annual average PM2.5 concentrations repor
 
 ### Air quality not met standard
 
+In this section, we compute the air quality in two different views that the first one shows the comparison of average values while the second one shows the comparison of the total values.
+
 ![example](./static/images/Air_quality_not_met.png)
 
-This bar chart visualization shows the average percentage of days recorded since 2010 to 2016 that have not met the standard of air quality separated by each county in Washington state.
+This bar chart visualization shows the average percentage of days recorded since 2010 to 2016 that have not met the standard of air quality separated by each county in Washington state. Yakima county tends to have the highest average percentage value means that Yakima has a higher frequency of poor air quality.
+
 
 ![example](./static/images/Days_not_met_air_quality.png)
 
 Then we compare the total numbers of days that did not meet the standard of air quality for each county by visualizing them geographically.  From the graph, we can clearly see that Yakima and Okanogan have extremely large numbers of days not meeting the standard, which means that those two counties have poor air quality.
+
+By comparing these two visualizations, we concluded that both results illustrate that Yakima county has the highest frequency and rate of bad air quality during 2010 to 2016.
 
 ### Diesel Emission
 
