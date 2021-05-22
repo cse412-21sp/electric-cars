@@ -13,10 +13,7 @@
    /]
 
 # Abstract
-（explain the project purpose）
-
-# Category
-(Describe the subtitle below)
+In this project, we explore the intersection between climate, air quality, and energy use as it pertains to transportation across Washington state. We first examine trends in climatic variables such as precipitation, temperature, and annual cooling and heating days over time. Next, we take a look at Washington state air quality, and how that relates to diesel use in transportations. Additionally, we study what the public health effects of poor air quality (i.e., allergies) may be. Finally, we take a look at the use of electric cars, and the feasibility of increasing usage of electric cars (based on income and cost) across the state.
 
 ## Climate
 
@@ -106,3 +103,67 @@ The air quality can be influenced by many factors. As the PM 2.5 is one of the m
 Now we try to explore how many people might be affected because of poor air quality in each county. To do so, we find the data that counts the number of people allergic to PM 2.5 in each county. Based on the lind chart we made, we discover the top 7 counties that have large numbers of people being allergic to PM 2.5 among all counties in Washington state. Particularly, King county always has the largest number since 2010 even though it has a significant drop in 2015.
 
 ## Electric Car
+
+### Amount of Electric Car Transactions (2010-2021)
+
+![example](./static/images/Amount.png)
+
+The visualization shows an increasing amount of electric car transactions since 2010. The dip from 2020-2021 occurred because the data only goes to March of 2021 rather than the entire year.
+
+(Suggested change: We should use animation to demonstrate this visualization to further emphasize the growth component.)
+
+### Amount by County(2010-2020)
+
+![example](./static/images/Amount by county.png)
+
+The visualization shows the electric car transaction trends in different counties. We omitted 2021 because data only goes to March.
+
+(Suggested change: We should make an interactive version where the audience can choose the counties they want to view in a single window. We can also add a brush so they can examine particular years.)
+
+### New/Used Cars Preference
+
+![example](./static/images/NewUsed cars.png)
+
+The visualization shows that preference in new/used cars from 2010-2020. We see a dip in the transaction of new electric cars from 2018-2010. Why did the dip occur? Was there a policy that subsidized used electric cars?
+
+(Suggested change: Use animation to illustrate the trend over time.)
+
+### Use of Electric Cars
+
+![example](./static/images/Usage.png)
+
+The visualization demonstrates the primary use of the vehicle. Most people use it for daily purposes (passenger).
+
+(Suggested change: Use animation to depict the increase.)
+
+### Year of Electric Car Model
+
+![example](./static/images/Model Yr Count.png)
+
+The visualization depicts the year of electric car models owned by people in WA. Most people purchase car models produced after 2011.
+
+(Suggested change: We can make it interactive so the audience could select the transaction year and look at the preference in that particular year.)
+
+### Preference of Car Maker
+
+![example](./static/images/Brands.png)
+
+The visualization demonstrates the preference of car makers from 2010-2021. Most people prefer Tesla and Nissan.
+
+(Suggested change: Add an interactive component so people can select the year and see the preference of that particular year.)
+
+### The Change in Preference of Car Maker
+
+![example](./static/images/Brands Change over time.png)
+
+The visualization demonstrates the change in preference in car makers over time.
+
+(Suggested change: Add an interactive component where the user could select certain makers and observe closely. We should put them in the same window as well. We can use animation initially to demonstrate the change over time.)
+
+### Fuel Type Change over time
+
+![example](./static/images/Fuel type over time.png)
+
+The visualization shows preference in the fuel type of the car. An increasing number of people prefer battery electric vehicles rather than Plug-in hybrid vehicles (PHEVs). PHEVs use batteries to power an electric motor; use another fuel, such as gasoline or diesel, to power an internal combustion engine.
+
+(Suggested change: Put it in the same window and use animation to depict the trend.)
