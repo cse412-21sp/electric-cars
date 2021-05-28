@@ -84,7 +84,7 @@ In this section, we compute the air quality in two different views that the firs
 This bar chart visualization shows the average percentage of days recorded since 2010 to 2016 that have not met the standard of air quality separated by each county in Washington state. Yakima county tends to have the highest average percentage value means that Yakima has a higher frequency of poor air quality.
 
 
-![example](./static/images/Days_not_met_air_quality.png)
+![example](./static/images/days_not_met_air_quality.png)
 
 Then we compare the total numbers of days that did not meet the standard of air quality for each county by visualizing them geographically.  From the graph, we can clearly see that Yakima and Okanogan have extremely large numbers of days not meeting the standard, which means that those two counties have poor air quality.
 
