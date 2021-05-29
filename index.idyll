@@ -71,36 +71,40 @@ and change in total annual heating.
 
 ### Annual average PM2.5 Concentrations
 
-![example](./static/images/Annual PM2.5 Concentrations.png)
+[FullWidth]
+[ObservableEmbed link:"https://observablehq.com/embed/@lrj88/annual-pm2-5-concentrations-bar-chart-race?cells=viewof+replay%2Cchart"width:"100%" height:"650"/]
+[/FullWidth]
 
-This map visualization shows the total annual average PM2.5 concentrations reported from each county in Washington through 2010 to 2018. It is obvious that Okanogan has the highest total concentration through these years and Pend Oreille has the lowest total concentration. There are three counties showing in grey due to the missing data.
+This racing bar chart animation shows the top 15 counties in Washington State ranked by the annual average PM2.5 concentrations through 2010 to 2018 by year. Notice that Yakima County was ranked at top three all the time in the past 8 years and the annual concentration in Okanogan County increased rapidly after 2014 in general. This observation will be discussed further below.
 
 ### Air quality not met standard
 
-In this section, we compute the air quality in two different views that the first one shows the comparison of average values while the second one shows the comparison of the total values.
+In this section, we compute the air quality in two different views that the first one shows the comparison of total values while the second one shows the comparison of the average values.
 
-![example](./static/images/Air_quality_not_met.png)
+(Move mouse over to see the highlighted county from both visualizations.)
+[data name:"qualityNotMet" source:"PM2_5_Air_Quality_2010-2016.csv" /]
 
-This bar chart visualization shows the average percentage of days recorded since 2010 to 2016 that have not met the standard of air quality separated by each county in Washington state. Yakima county tends to have the highest average percentage value means that Yakima has a higher frequency of poor air quality.
+[TableauEmbed link:"https://public.tableau.com/views/Airqualitynotmet/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"1000"/]
 
+We compared the total numbers of days that did not meet the standard of air quality for each county by visualizing them geographically. From the graph, we can clearly see that Yakima and Okanogan have extremely large numbers of days not meeting the standard, which means that overall, those two counties have poor air quality.
 
-![example](./static/images/days_not_met_air_quality.png)
+Then comparing from the bar chart with shows the average percentage of days recorded since 2010 to 2016 that have not met the standard of air quality separated by each county in Washington state. Yakima county tends to have the highest average percentage value means that Yakima has a higher frequency of poor air quality.
 
-Then we compare the total numbers of days that did not meet the standard of air quality for each county by visualizing them geographically.  From the graph, we can clearly see that Yakima and Okanogan have extremely large numbers of days not meeting the standard, which means that those two counties have poor air quality.
-
-By comparing these two visualizations, we concluded that both results illustrate that Yakima county has the highest frequency and rate of bad air quality during 2010 to 2016.
-
-### Diesel Emission
-
-![example](./static/images/Annual PM2.5 Concentrations.png)
-
-The air quality can be influenced by many factors. As the PM 2.5 is one of the main pollutants, then we also considered that diesel emission would take a great part as the pollutant to the air quality.
+By comparing these two visualizations, we concluded that both results illustrate that Yakima county has the highest frequency and rate of bad air quality during 2010 to 2016. (Counties on the map without any value are due to missing data.)
 
 ### Allergy caused by PM 2.5
 
 ![example](./static/images/affected_person.png)
 
 Now we try to explore how many people might be affected because of poor air quality in each county. To do so, we find the data that counts the number of people allergic to PM 2.5 in each county. Based on the lind chart we made, we discover the top 7 counties that have large numbers of people being allergic to PM 2.5 among all counties in Washington state. Particularly, King county always has the largest number since 2010 even though it has a significant drop in 2015.
+
+### Gasoline Component Emission
+
+The air quality can be influenced by many factors. As the PM 2.5 is one of the main pollutants, we also considered that gasoline emission from vehicles would take a great part as the pollutant to the air quality. Carbon dioxide (CO2) is the majority pollutant emitted from motor vehicles which contribute to global climate change.
+
+[TableauEmbed link:"https://public.tableau.com/views/CO2Emission_16222632179950/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"850"/]
+
+This dot plot chart above gives a quick view on carbon dioxide emission in Washington State over the past 28 years from 1990 to 2018. The emission of carbon dioxide reached a peak at about 79.31 million metric tons in 2007. The orange colored trend line in the chart shows an increasing tendency during the past 28 years.
 
 ## Electric Car
 
@@ -167,3 +171,4 @@ The visualization demonstrates the change in preference in car makers over time.
 The visualization shows preference in the fuel type of the car. An increasing number of people prefer battery electric vehicles rather than Plug-in hybrid vehicles (PHEVs). PHEVs use batteries to power an electric motor; use another fuel, such as gasoline or diesel, to power an internal combustion engine.
 
 (Suggested change: Put it in the same window and use animation to depict the trend.)
+
