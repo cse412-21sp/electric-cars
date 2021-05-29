@@ -19,53 +19,21 @@ In this project, we explore the intersection between climate, air quality, and e
 
 ### Heavy Precipitaion
 
-For the heavy precipitation, we’ve created visualizations showing how the heavy precipitation
-changes from 2010 to 2016 in counties in Washington State. The visualization shows the sum of different census tracts in each county.
+[TableauEmbed link:"https://public.tableau.com/views/totalsumofheavyprecipitationfrom2010to2016/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"200%" height:"900"/]
 
-![example](./static/images/new_heavy_precipitation.png)
+[TableauEmbed link:"https://public.tableau.com/views/top10rankingofheavyprecipitation_ranking_version/Sheet13?:language=en-US&:display_count=n&:origin=viz_share_link" width:"200%" height:"800"/]
 
-This image shows every county in Washington State. However, this visualization appears to be quite
-long because there are many counties in Washington State, and the counties are divided into many
-different census tracts. Therefore, we would probably change the visualization to scrolling type
-later on. (Scrolling by year or county)
+##### dot version
+[TableauEmbed link:"https://public.tableau.com/views/top10rankingofheavyprecipitation_text_version/Sheet132?:language=en-US&:display_count=n&:origin=viz_share_link" width:"200%" height:"800"/]
 
-![example](./static/images/Douglas county example.png)
-
-This is a snapshot/example of one of the counties(zoom in version and separate
-by census tract).
-
-![example](./static/images/Adams county example.png)
-
-This is a snapshot/example of another county(zoom in version and separate
-by census tract).
+##### text version
+[TableauEmbed link:"https://public.tableau.com/views/top10rankingofheavyprecipitation_text_version/Sheet133?:language=en-US&:display_count=n&:origin=viz_share_link" width:"200%" height:"800"/]
 
 ### Annual cooling&heating
 
-There are two visualizations in this section. One visualization shows the change in annual cooling
-rate in each county in 2020, and the other one shows the change in  heating rate in each county in 2020.
-CDD represents the cooling degree days and HDD represents the heating degree days. Both are
-calculated using a day’s average temperature and a baseline temperature of 65 degrees Fahrenheit.
+[TableauEmbed link:"https://public.tableau.com/shared/55HG7NBFZ?:display_count=n&:origin=viz_share_link" width:"200%" height:"1000"/]
 
-The two visualizations are the sum of census tracts in each county.
-Some counties have many census tracts, so the two visualizations add up all the
-census tracts in that county.
 
-![example](./static/images/new_annual_cooling.png)
-
-The change in annual cooling degree days in each county in 2020. If the day’s average temperature
-is 65 or below, the value is 0, and this indicates no need for cooling. For example, in Adams
-county, there are five census tracts, but I combined the five census tracts, so the change in
-total annual cooling rate is 3059 degree days.
-
-![example](./static/images/new_annual_heating.png)
-
-The change in annual heating rate degree days in each country in 2020. If the day’s average
-temperature is 65 or above, the value is 0, and this indicates no need for heating. For example,
-in Adams county, there are five census tracts, but I combined the five census tracts, so the change
-in total annual heating rate is 6136 degree days.
-
-For the two visualizations, King county is the one that has the most change in total annual cooling
-and change in total annual heating.
 
 ## Air Quality
 
