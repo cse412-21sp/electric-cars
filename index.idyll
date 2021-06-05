@@ -29,7 +29,9 @@ This heavy precipitation map of Washington state shows the average days of heavy
 
 As seen from this graph, we see that King County with 4.854 days, followed by Pierce county with 4.549 days have had the most heavy precipitation days throughout this time period. The possible reason that these two counties have had the most heavy precipitation days throughout this time period might be due to the reason that these are two of the most highly populated counties in the state, and the heavy precipitation in these locations affects over 3 million people.
 
-[TableauEmbed link:"https://public.tableau.com/views/averageofheavyprecipitationfrom2010to2016/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"700"/]
+(Move mouse over to see detail information in each county)
+
+[TableauEmbed link:"https://public.tableau.com/shared/NSHX3QG9F?:display_count=n&:origin=viz_share_link" width:"100%" height:"700"/]
 
 [br /]
 In this section, we also created a top 10 ranking of average heavy precipitation in each year graph to show a different perspective with the same data. Press the start button to see how the top 10 ranking of average heavy precipitation changes through this period and press stop to see particular year.
@@ -46,7 +48,9 @@ Next, we are going to look into the annual cooling and heating days in Washingto
 
 In this section, we created the two types of visualizations, average and sum for both CDD and HDD to see the differences between average and sum. Move mouse over to see detailed information and highlighted parts in each county or Search by county names.
 
-[TableauEmbed link:"https://public.tableau.com/views/heatingandcooling/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"1000"/]
+(Move mouse over to see detail information in each county for more info)
+
+[TableauEmbed link:"https://public.tableau.com/views/heatingandcooling/Dashboard1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link" width:"100%" height:"1000"/]
 
 [br /]
 Based on the above visualization, we notice that the highest in average CDD and HDD do not mean the highest sum of CDD and HDD. For the sum of CDD and HDD, King county has the highest in all the counties.
