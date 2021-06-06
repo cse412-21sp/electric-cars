@@ -12,16 +12,25 @@
   color:"#273049"
    /]
 
-[fullWidth style:`{padding: '5px 20% 50px'}`]
+[fullWidth style:`{margin: '5px 20% 5px'}`]
 # Abstract
+[/fullWidth]
+
+[fullWidth style:`{fontSize:'120%', margin: '5px 22% 5px'}`]
+[i]
 Global climate is changing due to the increased anthropogenic emissions of greenhouse gas. Although climate is changing on a global scale, it is very important to examine trends on a local scale, in order to best serve communities. Currently, in Washington State, we are in a transition period, with legislators making strides toward passing more aggressive climate policy, including phasing out the use of gasoline- and diesel-powered vehicles, and implementing a cap-and-trade industrial carbon program.
 
 In this project, we explore changes in Washington State climatology over time, specifically looking at variables such as precipitation and annual heating and cooling days. Next, we take a look at air quality over time. Air quality can be influenced by climate variables, specifically temperature and precipitation and number of wildfires, but it is also highly dependent on the use of cars and other pollutant emitters. Finally, we look at how Washington state residents are combating climate change through the use of electric cars (as opposed to traditional gasoline and diesel vehicles).
+[/i]
+[/fullWidth]
 
+[fullWidth style:`{margin: '5px 20% 5px'}`]
 [hr /]
-## Climate
+# How's the Climate Changing over Years?
+[/fullWidth]
 
-For the first section,we are going to look into some climatology visualization, including heavy precipitation, annual cooling and heating days in Washington State to give a brief understanding on how those might affect air quality, usage of cars, and etc.
+[fullWidth style:`{margin: '5px 22% 5px'}`]
+[i]For the first section,we are going to look into some climatology visualization, including heavy precipitation, annual cooling and heating days in Washington State to give a brief understanding on how those might affect air quality, usage of cars, and etc.[/i]
 
 ### Heavy Precipitaion
 
@@ -30,18 +39,21 @@ This heavy precipitation map of Washington state shows the average days of heavy
 As seen from this graph, we see that King County with 4.854 days, followed by Pierce county with 4.549 days have had the most heavy precipitation days throughout this time period. The possible reason that these two counties have had the most heavy precipitation days throughout this time period might be due to the reason that these are two of the most highly populated counties in the state, and the heavy precipitation in these locations affects over 3 million people.
 
 (Move mouse over to see detail information in each county)
+[/fullWidth]
 
-[TableauEmbed link:"https://public.tableau.com/shared/NSHX3QG9F?:display_count=n&:origin=viz_share_link" width:"100%" height:"700"/]
+[fullWidth style:`{margin: '5px 23.5% 20px'}`]
+[TableauEmbed link:"https://public.tableau.com/shared/NSHX3QG9F?:display_count=n&:origin=viz_share_link" width:"100%" height:"835"/]
+[/fullWidth]
 
-[br /]
+[fullWidth style:`{margin: '5px 22% 15px'}`]
 In this section, we also created a top 10 ranking of average heavy precipitation in each year graph to show a different perspective with the same data. Press the start button to see how the top 10 ranking of average heavy precipitation changes through this period and press stop to see particular year.
+[/fullWidth]
 
 [TableauEmbed link:"https://public.tableau.com/views/top10rankingofaverageheavyprecipitation_ranking_version/Sheet13?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"400"/]
 
-[br /]
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 From the animation, we see although King County and Pierce county did not always occupy the first two places in this top 10 ranking of average heavy precipitation in each year, we noticed that these two counties are always in the top 10 through this period.
 
-[br /]
 ### Annual Cooling & Heating
 
 Next, we are going to look into the annual cooling and heating days in Washington state to understand the climatology further. Just want to give a brief introduction to those who might not be familiar with annual cooling and heating days. Cooling degree days, abbreviated as CDD, and heating degree days, abbreviated as HDD are a standard metric calculated using a day’s average temperature. For example, if the average temperature is 65 F or below, the CDD is 0 (no need for cooling). If the temperature is above 65 F, the difference between 65 and the actual temperature is the CDD value. For example, a day with the temperature of 80 F would have a value of 15 CDD. The same concept, but opposite applies for HDD.
@@ -49,100 +61,128 @@ Next, we are going to look into the annual cooling and heating days in Washingto
 In this section, we created the two types of visualizations, average and sum for both CDD and HDD to see the differences between average and sum. Move mouse over to see detailed information and highlighted parts in each county or Search by county names.
 
 (Move mouse over to see detail information in each county for more info)
+[/fullWidth]
 
+[fullWidth style:`{margin: '5px 20% 5px'}`]
 [TableauEmbed link:"https://public.tableau.com/views/heatingandcooling/Dashboard1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link" width:"100%" height:"1000"/]
+[/fullWidth]
 
-[br /]
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 Based on the above visualization, we notice that the highest in average CDD and HDD do not mean the highest sum of CDD and HDD. For the sum of CDD and HDD, King county has the highest in all the counties.
 
 When comparing the future projection of HDD and CDD, the numbers are both positive, this means we will need more cooling and more heating in the future, basically more climate extremes.
 
 For the next section, we are going to discuss the air quality in Washington state because air quality can be affected by many factors, such as the precipitation and temperature and air quality, which is important for maintaining human health.
+[/fullWidth]
 
+[fullWidth style:`{margin: '5px 20% 5px'}`]
 [hr /]
-## Air Quality
+# Air Quality - One of the Biggest Problem We Care About
+[/fullWidth]
 
-Air quality can be influenced by climate variables, specifically temperature and precipitation and number of wildfires, but it is also highly dependent on the use of cars and other pollutant emitters.
+[fullWidth style:`{margin: '5px 22% 5px'}`]
+[i]Air quality can be influenced by climate variables, specifically temperature and precipitation and number of wildfires, but it is also highly dependent on the use of cars and other pollutant emitters.[/i]
 
 ### Annual Average PM2.5 Concentrations
+[/fullWidth]
 
+[fullWidth style:`{margin: '5px 23% 10px'}`]
 [ObservableEmbed link:"https://observablehq.com/embed/@lrj88/annual-pm2-5-concentrations-bar-chart-race?cells=viewof+replay%2Cchart"width:"100%" height:"650"/]
+[/fullWidth]
 
-[br /]
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 This racing bar chart animation shows the top 15 counties in Washington State ranked by the annual average PM2.5 concentrations through 2010 to 2018 by year. Notice that Yakima County was ranked at top three all the time in the past 8 years and the annual concentration in Okanogan County increased rapidly after 2014 in general. This observation will be discussed further below.
 
-[br /]
 ### Air Quality Not Met Standard
 
 In this section, we compute the air quality in two different views that the first one shows the comparison of total values while the second one shows the comparison of the average values.
 
 (Move mouse over to see the highlighted county from both visualizations.)
+[/fullWidth]
 
+[fullWidth style:`{margin: '5px 23% 10px'}`]
 [TableauEmbed link:"https://public.tableau.com/views/Airqualitynotmet/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"940"/]
+[/fullWidth]
 
-[br /]
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 We compared the total numbers of days that did not meet the standard of air quality for each county by visualizing them geographically. From the graph, we can clearly see that Yakima and Okanogan have extremely large numbers of days not meeting the standard, which means that overall, those two counties have poor air quality.
 
 Then compared from the bar chart which shows the average percentage of days recorded since 2010 to 2016 that have not met the standard of air quality separated by each county in Washington state. Yakima county tends to have the highest average percentage value means that Yakima has a higher frequency of poor air quality.
 
 By comparing these two visualizations, we concluded that both results illustrate that Yakima county has the highest frequency and rate of bad air quality during 2010 to 2016. (Counties on the map without any value are due to missing data.)
 
-[br /]
 ### Allergy Caused by PM 2.5
 
 Based on the results we get from the visualizations shown above, we are now curious about how many people might be affected by PM 2.5 and how the result is related to air quality since the frequency of bad air quality has a positive effect on the PM 2.5 concentrations. To do so, we find the data that counts the percentage of people allergic less or more to PM 2.5 in each county. Here is what we have discovered.
+[/fullWidth]
 
+[fullWidth style:`{margin: '25px 23% 5px'}`]
 [TableauEmbed link:"https://public.tableau.com/views/people_affected/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"850"/]
+[/fullWidth]
 
-[br /]
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 From the lind chart we made, we discovered the top 7 counties that have a high percentage of people being allergic to PM 2.5 among all counties in Washington state. Particularly, King county has always had the largest number since 2010, and it has had noticeable ups and downs over time. We can clearly see that those top 7 counties also have high PM 2.5 concentrations and high frequency of bad air quality. But if we take a closer look at the ranking, King counties has the highest percentage of people affected by PM 2.5 all the time, whereas it does not always have the highest PM 2.5 concentrations and frequency of bad air quality. Our guess is that people are more likely to be affected by PM 2.5 since people are mainly concentrated in urbanized areas. So the density of population in King counties is higher than others, which might have an influence on the rate of people being affected by PM 2.5.
 
-[br /]
 ### Gasoline Component Emission
 
 The air quality can be influenced by many factors. As PM 2.5 is one of the main pollutants, we also considered that gasoline emission from vehicles would take a great part as the pollutant to the air quality. Carbon dioxide (CO2) is the majority pollutant emitted from motor vehicles that contribute to global climate change.
+[/fullWidth]
 
-[TableauEmbed link:"https://public.tableau.com/views/CO2Emission_16222632179950/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"850"/]
+[fullWidth style:`{margin: '25px 23% 5px'}`]
+[TableauEmbed link:"https://public.tableau.com/views/CO2Emission_16222632179950/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"835"/]
+[/fullWidth]
 
-[br /]
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 This dot plot chart above gives a quick view on carbon dioxide emission in Washington State over the past 28 years from 1990 to 2018. The emission of carbon dioxide reached a peak at about 79.31 million metric tons in 2007. The orange colored trend line in the chart shows an increasing tendency during the past 28 years.
 
 The carbon dioxide emissions fluctuate greatly every year in Washington State, but the general trend is still rising. Although gasoline emission is one of the important sources of CO2 emission but not the main source, it is still necessary to reduce the gasoline emission both for the environment and our health. Therefore, electric cars are a good way to reduce gasoline emission.
+[/fullWidth]
 
+[fullWidth style:`{margin: '5px 20% 5px'}`]
 [hr /]
-## Electric Car
+# Can Electric Cars Substitude Motor Vehicles?
+[/fullWidth]
 
+[fullWidth style:`{margin: '5px 22% 5px'}`]
 ### Amount of Electric Car Transactions (2010-2021)
+[/fullWidth]
 
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 [TableauEmbed link:"https://public.tableau.com/views/412FinalProject/Amount?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"850"/]
+[/fullWidth]
 
-[br /]
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 From 2010 to 2020, the annual amount of electric car transactions in Washington state increased drastically from 109 to 89,028.
 
-[br /]
 ### Amount of Electric Car Transactions by County (2010-2020)
 
-[TableauEmbed link:"https://public.tableau.com/views/412FinalProject/Amountbycountybymonths?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"850"/]
-
-[br /]
 Let's take a closer look at the individual counties’ transactions throughout each month. Most of the transactions took place in King county(pink line), which made sense when considering the population of the county.
+[/fullWidth]
 
+[fullWidth style:`{margin: '5px 22% 5px'}`]
+[TableauEmbed link:"https://public.tableau.com/views/412FinalProject/Amountbycountybymonths?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"850"/]
+[/fullWidth]
+
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 Beginning August 2019, Washington state offered tax exemptions for selected clean vehicles, which means we should expect an increase in the number of transactions, and we do. However, the pandemic affected people’s spending habits, which might have caused the fluctuations in transactions in 2020.
 
-[br /]
 ### Primary Usage of Electric Cars
+[/fullWidth]
 
+[fullWidth style:`{margin: '5px 22% 5px'}`]
 [TableauEmbed link:"https://public.tableau.com/views/412FinalProject/Usage?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"460"/]
+[/fullWidth]
 
-[br /]
+[fullWidth style:`{margin: '25px 22% 5px'}`]
 Looking at the primary purposes of electric cars, most people use it for ‘passenger’ purposes which is defined as transporting passengers.  The next most popular use was ‘exempt’. According to the Washington State Legislature, ‘exempt’ refers to vehicles owned by a city, county, state government agency, or Indian tribe located in Washington state.
+[/fullWidth]
 
-[br /]
-
+[fullWidth style:`{margin: '5px 20% 5px'}`]
 [hr /]
-## Sources
+# Sources
+[/fullWidth]
 
-[span style:`{color:'#555'}`]
+[fullWidth style:`{margin: '25px 21% 5px', color:'#555'}`]
 [i]Department of Licensing[/i]. “Electric Vehicle Title and Registration Activity: Data.WA: State of Washington.” Data.WA.gov, 18 May 2021, [a href:'http://data.wa.gov/Transportation/Electric-Vehicle-Title-and-Registration-Activity/rpr4-cgyd']data.wa.gov/Transportation/Electric-Vehicle-Title-and-Registration-Activity/rpr4-cgyd[/a].
 
 [br /]
@@ -156,5 +196,4 @@ Looking at the primary purposes of electric cars, most people use it for ‘pass
 [br /]
 
 [i]Washington State Department of Health[/i]. Washington Tracking Network (WTN), [a href:'https://fortress.wa.gov/doh/wtn/WTNPortal']fortress.wa.gov/doh/wtn/WTNPortal[/a].
-[/span]
 [/fullWidth]
