@@ -53,7 +53,9 @@ As seen from this graph, we see that King County with 4.854 days, followed by Pi
 In this section, we also created a top 10 ranking of average heavy precipitation in each year graph to show a different perspective with the same data. Press the start button to see how the top 10 ranking of average heavy precipitation changes through this period and press stop to see particular year.
 [/fullWidth]
 
+[fullWidth style:`{margin: '5px 25% 15px'}`]
 [TableauEmbed link:"https://public.tableau.com/views/top10rankingofaverageheavyprecipitation_ranking_version/Sheet13?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"400"/]
+[/fullWidth]
 
 [fullWidth style:`{margin: '25px 22% 5px'}`]
 From the animation, we see although King County and Pierce county did not always occupy the first two places in this top 10 ranking of average heavy precipitation in each year, we noticed that these two counties are always in the top 10 through this period.
@@ -79,7 +81,7 @@ When comparing the future projection of HDD and CDD, the numbers are both positi
 For the next section, we are going to discuss the air quality in Washington state because air quality can be affected by many factors, such as the precipitation and temperature and air quality, which is important for maintaining human health.
 [/fullWidth]
 
-[fullWidth style:`{margin: '5px 20% 5px'}`]
+[fullWidth style:`{margin: '50px 20% 5px'}`]
 [hr /]
 # Air Quality - *One of the Biggest Problem We Care About*
 [/fullWidth]
@@ -142,7 +144,7 @@ This dot plot chart above gives a quick view on carbon dioxide emission in Washi
 The carbon dioxide emissions fluctuate greatly every year in Washington State, but the general trend is still rising. Although gasoline emission is one of the important sources of CO2 emission but not the main source, it is still necessary to reduce the gasoline emission both for the environment and our health. Therefore, electric cars are a good way to reduce gasoline emission.
 [/fullWidth]
 
-[fullWidth style:`{margin: '5px 20% 5px'}`]
+[fullWidth style:`{margin: '50px 20% 5px'}`]
 [hr /]
 # Can Electric Cars Substitude Motor Vehicles?
 [/fullWidth]
@@ -202,4 +204,8 @@ Looking at the primary purposes of electric cars, most people use it for ‘pass
 [br /]
 
 [i]Washington State Department of Health[/i]. Washington Tracking Network (WTN), [a href:'https://fortress.wa.gov/doh/wtn/WTNPortal']fortress.wa.gov/doh/wtn/WTNPortal[/a].
+
+[br /]
+
+[i]Trees-simple-background[/i]. (2017, April 5). Artwork. Wallup.Net. [a href:'https://wallup.net/wp-content/uploads/2017/03/27/433392-ultra-wide-minimalism-artwork-reflection-trees-simple_background-748x316.png']wallup.net/wp-content/uploads/2017/03/27/433392-ultra-wide-minimalism-artwork-reflection-trees-simple_background-748x316.png[/a]
 [/fullWidth]
