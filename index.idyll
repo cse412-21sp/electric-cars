@@ -34,13 +34,13 @@ In this project, we explore **changes in Washington State climatology over time*
 [/fullWidth]
 
 [fullWidth style:`{margin: '5px 22% 5px'}`]
-[i]For the first section,we are going to look into some climatology visualization, including heavy precipitation, annual cooling and heating days in Washington State to give a brief understanding on how those might affect air quality, usage of cars, and etc.[/i]
+[i]For the first section, we are going to look into some climatology visualization, including heavy precipitation, annual cooling and heating days in Washington State to give a brief understanding on how those might affect air quality, usage of cars, and etc.[/i]
 
 ### Heavy Precipitaion
 
 This heavy precipitation map of Washington state shows the average days of heavy precipitation from 2010 to 2016. The colors on the map represent intensity, with bluer darker color showing stronger intensity, and white brighter color showing less intensity.
 
-As seen from this graph, we see that King County with 4.854 days, followed by Pierce county with 4.549 days have had the most heavy precipitation days throughout this time period. The possible reason that these two counties have had the most heavy precipitation days throughout this time period might be due to the reason that these are two of the most highly populated counties in the state, and the heavy precipitation in these locations affects over 3 million people.
+As seen from this graph, we see that King County with 4.854 days, followed by Pierce county with 4.549 days have had the most heavy precipitation days throughout this time period. The possible reason that these two counties have had the most heavy precipitation days throughout this time period is because these are two of the most highly populated counties in the state, and the heavy precipitation in these locations affects over 3 million people.
 
 (Move mouse over to see detail information in each county)
 [/fullWidth]
@@ -78,7 +78,7 @@ Based on the above visualization, we notice that the highest in average CDD and 
 
 When comparing the future projection of HDD and CDD, the numbers are both positive, this means we will need more cooling and more heating in the future, basically more climate extremes.
 
-For the next section, we are going to discuss the air quality in Washington state because air quality can be affected by many factors, such as the precipitation and temperature and air quality, which is important for maintaining human health.
+For the next section, we are going to discuss the air quality in Washington state because air quality can be affected by many factors, such as the precipitation and temperature, and air quality is important for maintaining human health.
 [/fullWidth]
 
 [fullWidth style:`{margin: '50px 20% 5px'}`]
@@ -87,7 +87,7 @@ For the next section, we are going to discuss the air quality in Washington stat
 [/fullWidth]
 
 [fullWidth style:`{margin: '5px 22% 5px'}`]
-[i]Air quality can be influenced by climate variables, specifically temperature and precipitation and number of wildfires, but it is also highly dependent on the use of cars and other pollutant emitters. When it comes to air quality, the first thing most people think of is the issue of PM2.5. Explain briefly, PM 2.5 is particle pollution or particulate matter less than 2.5 micrometers. Why is this harmful to our health? Because when we breathe, these tiny particles may escape our “defense system”, our nose or sinuses, and move deeper into our lungs, which can cause health problems such as allergies. Currently, EPA has in place an annual PM standard of **15 micrograms per cubic meter** and a daily 24-hour period standard of **35 micrograms per cubic meter**. Let’s now explore deeper about the air quality of Washington State.[/i]
+[i]Air quality can be influenced by climate variables, specifically temperature and precipitation and number of wildfires, but it is also highly dependent on the use of cars and other pollutant emitters. When it comes to air quality, the first thing most people think of is the issue of PM2.5. Briefly speaking, PM 2.5 is particle pollution or particulate matter less than 2.5 micrometers. Why is this harmful to our health? Because when we breathe, these tiny particles may escape our “defense system”, our nose or sinuses, and move deeper into our lungs, which can cause health problems such as allergies. Currently, EPA has in place an annual PM standard of **15 micrograms per cubic meter** and a daily 24-hour period standard of **35 micrograms per cubic meter**. Let’s now explore the air quality of Washington State.[/i]
 
 ### Annual Average PM2.5 Concentrations
 [/fullWidth]
@@ -101,7 +101,7 @@ This racing bar chart animation shows the top 15 counties in Washington State ra
 
 ### Air Quality Not Met Standard
 
-In this section, we compute the air quality in two different views that the first one shows the comparison of total values while the second one shows the comparison of the average values.
+In this section, we compute the air quality in two different views: the first one shows the comparison of total values while the second one shows the comparison of the average values.
 
 (Move mouse over to see the highlighted county from both visualizations.)
 [/fullWidth]
@@ -111,9 +111,9 @@ In this section, we compute the air quality in two different views that the firs
 [/fullWidth]
 
 [fullWidth style:`{margin: '25px 22% 5px'}`]
-We compared the total numbers of days that did not meet the standard of air quality for each county by visualizing them geographically. From the graph, we can clearly see that Yakima and Okanogan have extremely large numbers of days not meeting the standard, which means that overall, those two counties have poor air quality.
+We compared the total numbers of days that did not meet the standard of air quality for each county by visualizing them geographically. From the graph, we can clearly see that Yakima and Okanogan counties have extremely large numbers of days not meeting the standard, which means that overall, those two counties have poor air quality.
 
-Then compared from the bar chart which shows the average percentage of days recorded since 2010 to 2016 that have not met the standard of air quality separated by each county in Washington state. Yakima county tends to have the highest average percentage value means that Yakima has a higher frequency of poor air quality.
+Then we compared the counties using a bar chart which shows the average percentage of days recorded since 2010 to 2016 that have not met the standard of air quality separated by each county in Washington state. Yakima county tends to have the highest average percentage value means that Yakima has a higher frequency of poor air quality.
 
 By comparing these two visualizations, we concluded that both results illustrate that Yakima county has the highest frequency and rate of bad air quality during 2010 to 2016. (Counties on the map without any value are due to missing data.)
 
@@ -127,7 +127,7 @@ Based on the results we get from the visualizations shown above, we are now curi
 [/fullWidth]
 
 [fullWidth style:`{margin: '25px 22% 5px'}`]
-From the lind chart we made, we discovered the top 7 counties that have a high percentage of people being allergic to PM 2.5 among all counties in Washington state. Particularly, King county has always had the largest number since 2010, and it has had noticeable ups and downs over time. We can clearly see that those top 7 counties also have high PM 2.5 concentrations and high frequency of bad air quality. But if we take a closer look at the ranking, King counties has the highest percentage of people affected by PM 2.5 all the time, whereas it does not always have the highest PM 2.5 concentrations and frequency of bad air quality. Our guess is that people are more likely to be affected by PM 2.5 since people are mainly concentrated in urbanized areas. So the density of population in King counties is higher than others, which might have an influence on the rate of people being affected by PM 2.5.
+From the line chart we made, we discovered the top 7 counties that have a high percentage of people being allergic to PM 2.5 among all counties in Washington state. Particularly, King county has always had the largest number since 2010, and it has had noticeable ups and downs over time. We can clearly see that those top 7 counties also have high PM 2.5 concentrations and high frequency of bad air quality. But if we take a closer look at the ranking, King county has the highest percentage of people affected by PM 2.5 all the time, whereas it does not always have the highest PM 2.5 concentrations and frequency of bad air quality. Our guess is that people are more likely to be affected by PM 2.5 since people are mainly concentrated in urbanized areas. So the density of population in King county is higher than others, which might have an influence on the rate of people being affected by PM 2.5.
 
 ### Gasoline Component Emission
 
@@ -141,7 +141,7 @@ The air quality can be influenced by many factors. As PM 2.5 is one of the main 
 [fullWidth style:`{margin: '25px 22% 5px'}`]
 This dot plot chart above gives a quick view on carbon dioxide emission in Washington State over the past 28 years from 1990 to 2018. The emission of carbon dioxide reached a peak at about 79.31 million metric tons in 2007. The orange colored trend line in the chart shows an increasing tendency during the past 28 years.
 
-The carbon dioxide emissions fluctuate greatly every year in Washington State, but the general trend is still rising. Although gasoline emission is one of the important sources of CO2 emission but not the main source, it is still necessary to reduce the gasoline emission both for the environment and our health. Therefore, electric cars are a good way to reduce gasoline emission.
+The carbon dioxide emissions fluctuate greatly every year in Washington State, but the general trend is still rising. Gasoline consumption is an important source of CO2 emission, and while it may not be the biggest contributor to anthropogenic climate change, it is still important for us to reduce gasoline use for both the environment and our health. Therefore, electric cars are a good way to reduce gasoline usage.
 [/fullWidth]
 
 [fullWidth style:`{margin: '50px 20% 5px'}`]
@@ -164,7 +164,7 @@ From 2010 to 2020, the annual amount of electric car transactions in Washington 
 
 ### Amount of Electric Car Transactions by County (2010-2020)
 
-Let's take a closer look at the individual counties’ transactions throughout each month. Most of the transactions took place in King county(pink line), which made sense when considering the population of the county.
+Let's take a closer look at the individual counties’ transactions throughout each month. Most of the transactions took place in King county (pink line), which made sense when considering the population and demographic of the county.
 [/fullWidth]
 
 [fullWidth style:`{margin: '5px 22% 5px'}`]
