@@ -28,7 +28,7 @@ In this project, we explore **changes in Washington State climatology over time*
 [/i]
 [/fullWidth]
 
-[fullWidth style:`{margin: '5px 20% 5px'}`]
+[fullWidth style:`{margin: '50px 20% 5px'}`]
 [hr /]
 # How's the Climate Changing over Years?
 [/fullWidth]
@@ -83,7 +83,7 @@ For the next section, we are going to discuss the air quality in Washington stat
 
 [fullWidth style:`{margin: '50px 20% 5px'}`]
 [hr /]
-# Air Quality - *One of the Biggest Problem We Care About*
+# Air Quality - *One of the Biggest Problems We Care About*
 [/fullWidth]
 
 [fullWidth style:`{margin: '5px 22% 5px'}`]
@@ -146,11 +146,11 @@ The carbon dioxide emissions fluctuate greatly every year in Washington State, b
 
 [fullWidth style:`{margin: '50px 20% 5px'}`]
 [hr /]
-# Can Electric Cars Substitude Motor Vehicles?
+# Can Electric Cars Substitute Motor Vehicles?
 [/fullWidth]
 
 [fullWidth style:`{margin: '5px 22% 5px'}`]
-[i]Anthropogenic pollution influences air quality and climate change. For example, the combustion of fuel in vehicles contributes to the emission of nitrogen oxides, carbon monoxide, and other pollutants. These pollutants are not only harmful to our health but also contribute to climate change.  We will investigate the amount of electric cars transaction in Washington state and the primary usage of it.[/i]
+[i]The combustion of fuel in vehicles contributes to the emission of nitrogen oxides, carbon monoxide, and other pollutants. These pollutants are not only harmful to our health but also contribute to climate change. We will investigate the amount of electric cars transaction in Washington state and the primary usage of it. Electric car transactions refer to new titles and registrations or the transfer of ownership of these vehicles.[/i]
 
 ### Amount of Electric Car Transactions (2010-2021)
 [/fullWidth]
@@ -187,25 +187,26 @@ Looking at the primary purposes of electric cars, most people use it for ‘pass
 
 [fullWidth style:`{margin: '5px 20% 5px'}`]
 [hr /]
+# Summary
+[/fullWidth]
+
+[fullWidth style:`{fontSize:'120%', margin: '5px 22% 50px'}`]
+[i]Based on all the factors that might have large impacts on climate change that we have mentioned above, it is clear that with worsening air quality and other negative impacts of climate change, more residents in Washington state are becoming aware of the benefits of using electric cars instead of gasoline or diesel powered vehicles in terms of environment protection and daily use, and we believe that electric cars would eventually replace gasoline cars as the mainstream vehicle in the future.[/i]
+[/fullWidth]
+
+[fullWidth style:`{margin: '5px 20% 5px'}`]
+[hr /]
 # Sources
 [/fullWidth]
 
-[fullWidth style:`{margin: '25px 21% 5px', color:'#555'}`]
+[fullWidth style:`{margin: '15px 22% 5px', color:'#555'}`]
 [i]Department of Licensing[/i]. “Electric Vehicle Title and Registration Activity: Data.WA: State of Washington.” Data.WA.gov, 18 May 2021, [a href:'http://data.wa.gov/Transportation/Electric-Vehicle-Title-and-Registration-Activity/rpr4-cgyd']data.wa.gov/Transportation/Electric-Vehicle-Title-and-Registration-Activity/rpr4-cgyd[/a].
-
-[br /]
 
 [i]Washington State Legislature[/i]. “WAC 308-96A-099: Use Class Descriptions.” WAC 308-96A-099: [a href:'http://app.leg.wa.gov/wac/default.aspx?cite=308-96A-099']app.leg.wa.gov/wac/default.aspx?cite=308-96A-099[/a].
 
-[br /]
-
 [i]Washington Department of Revenue[/i]. “Incentive Programs.” Washington Department of Revenue, [a href:'http://dor.wa.gov/taxes-rates/tax-incentives/incentive-programs#1133']dor.wa.gov/taxes-rates/tax-incentives/incentive-programs#1133[/a].
 
-[br /]
-
 [i]Washington State Department of Health[/i]. Washington Tracking Network (WTN), [a href:'https://fortress.wa.gov/doh/wtn/WTNPortal']fortress.wa.gov/doh/wtn/WTNPortal[/a].
-
-[br /]
 
 [i]Trees-simple-background[/i]. (2017, April 5). Artwork. Wallup.Net. [a href:'https://wallup.net/wp-content/uploads/2017/03/27/433392-ultra-wide-minimalism-artwork-reflection-trees-simple_background-748x316.png']wallup.net/wp-content/uploads/2017/03/27/433392-ultra-wide-minimalism-artwork-reflection-trees-simple_background-748x316.png[/a]
 [/fullWidth]
